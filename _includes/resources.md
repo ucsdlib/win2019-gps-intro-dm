@@ -1,6 +1,6 @@
 #### Data Management Best Practices & Resources
 * [Library Data & GIS Lab](https://ucsd.libguides.com/data-gis-lab) - Library lab that has resources to help you with your data science and GIS research data needs
-* [RDCP](https://library.ucsd.edu/research-and-collaborations/data-curation) - Library unit who can help you with managing your research data
+* [Research Data Curation Program](https://library.ucsd.edu/research-and-collections/data-curation/index.html) - Library unit who can help you with managing your research data
 * [Workflow for Data Analysis using Stata](http://roger.ucsd.edu/record=b8897217~S9) by Scott Long - A book that has informed many efforts to produce reproducible workflows in Stata
 * [TIER Protocol](https://www.haverford.edu/tier) - A defined protocol for structuring and managing code, data and output of your researcher
 
