@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "https://github.com/ucsdlib/win2016-gps-dm101"
-workshop_site   : "http://ucsdlib.github.io/win2016-gps-dm101"
+workshop_repo   : "https://github.com/ucsdlib/win2019-gps-intro-dm"
+workshop_site   : "https://ucsdlib.github.io/win2019-gps-intro-dm/"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
@@ -23,10 +23,10 @@ swc_post_survey : "https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_
 #--------------------------------------------------------------------------------
 lib_site        : "http://libraries.ucsd.edu"
 lib_rdcp        : "http://libraries.ucsd.edu/rdcp"
-lib_data_svcs   : "http://ucsd.libguides.com/data-services"
+lib_data_svcs   : "https://ucsd.libguides.com/data-gis-lab"
 gps_site        : "http://gps.ucsd.edu"
-lib_contact     : "timdennis@ucsd.edu"
-lib_appt        : "https://calendly.com/tim-dennis/"
+lib_contact     : "rotsuji@ucsd.edu"
+lib_appt        : "https://ucsd.libguides.com/data-gis-lab"
 
 #--------------------------------------------------------------------------------
 # Settings for Jekyll - should not need to be modified.
